@@ -1,0 +1,6 @@
+lokum-contracts.iml
+.DS_Store
+/.idea
+/build
+!/build/.gitkeep
+node_modules
